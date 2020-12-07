@@ -1,0 +1,11 @@
+{
+  "requestId" : "ff669c9231b538aa3c4897a0a907d5b6",
+  "service" : "prod-search-service",
+  "errors" : [ {
+    "message" : "The query contains an undefined field.",
+    "code" : 1026,
+    "description" : "The search service could not process the query, because it contains a field name that is not defined for the search collection. To solve the issue, make sure the query contains only names of fields that are defined in the search collection schema. Refer to the service API specification for information on available fields.",
+    "level" : "ERROR",
+    "locale" : "en"
+  } ]
+}

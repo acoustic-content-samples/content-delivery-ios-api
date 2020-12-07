@@ -1,0 +1,32 @@
+{
+  "requestId": "e208c49a2529b8c87441018fd266806d",
+  "service": "prod-infra-api-dispatcher",
+  "version": "0.0.1575",
+  "description": "Acoustic Content Hub, API Dispatcher Component",
+  "errors": [
+    {
+      "name": "AccessControlError",
+      "message": "The user 'undefined' tried to perform GET /mydelivery/v1/search with tenant '87ddda39-ca3f-4357-9607-6a33e27884a5'. Access to the service was denied because the user roles 'anonymous' do not match the accepted roles 'admin,manager,editor,viewer,authenticatedvisitor'. Verify that the user has the correct role assigned.",
+      "locale": "en",
+      "parameters": {
+        "statusCode": 403,
+        "method": "GET",
+        "path": "/mydelivery/v1/search",
+        "roles": [
+          "anonymous"
+        ],
+        "requiredRoles": [
+          "admin",
+          "manager",
+          "editor",
+          "viewer",
+          "authenticatedvisitor"
+        ],
+        "timestamp": 1584483571453
+      },
+      "timestamp": "Tue, 17 Mar 2020 22:19:31 GMT"
+    }
+  ],
+  "timestamp": "Tue, 17 Mar 2020 22:19:31 GMT",
+  "message": "The user 'undefined' tried to perform GET /mydelivery/v1/search with tenant '87ddda39-ca3f-4357-9607-6a33e27884a5'. Access to the service was denied because the user roles 'anonymous' do not match the accepted roles 'admin,manager,editor,viewer,authenticatedvisitor'. Verify that the user has the correct role assigned."
+}

@@ -1,0 +1,81 @@
+{"numFound":43,"documents":[{
+  "id" : "ba8c8b50-e7e7-4481-9662-bbc5aedb2a6d",
+  "name" : "Travel Article Page",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:29.603Z",
+  "created" : "2020-03-20T15:49:29.603Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Content to Display/Travel Article Page"
+},{
+  "id" : "e7585579-d9cd-4837-a089-5a8dd8779a52",
+  "name" : "South Africa",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:25.081Z",
+  "created" : "2020-03-20T15:49:25.081Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/Africa/South Africa"
+},{
+  "id" : "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+  "name" : "Canada",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:36.156Z",
+  "created" : "2020-03-20T15:49:36.156Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/North America/Canada"
+},{
+  "id" : "08bc26ea-7636-4589-a8a4-d7d95c5f9775",
+  "name" : "Gallery Image",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:30.398Z",
+  "created" : "2020-03-20T15:49:30.398Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Content to Display/Gallery Image"
+},{
+  "id" : "f47689e6-66aa-48d9-971a-fc9abdab26ce",
+  "name" : "Kenya",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:26.586Z",
+  "created" : "2020-03-20T15:49:26.586Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/Africa/Kenya"
+},{
+  "id" : "1a957f82-195d-4d34-8293-87a6de290580",
+  "name" : "North America",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:35.033Z",
+  "created" : "2020-03-20T15:49:35.033Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/North America"
+},{
+  "id" : "b748b788-a37b-421c-9d2d-8b9946ff9657",
+  "name" : "Most Recent",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:34.111Z",
+  "created" : "2020-03-20T15:49:34.111Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/List order/Most Recent"
+},{
+  "id" : "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+  "name" : "Europe",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:35.335Z",
+  "created" : "2020-03-20T15:49:35.335Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/Europe"
+},{
+  "id" : "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "name" : "Asia",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:34.975Z",
+  "created" : "2020-03-20T15:49:34.975Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/Asia"
+},{
+  "id" : "ed7ce7fa-2f75-4864-87cc-3c2199bcee31",
+  "name" : "United States",
+  "classification" : "category",
+  "lastModified" : "2020-03-20T15:49:36.968Z",
+  "created" : "2020-03-20T15:49:36.968Z",
+  "creatorId" : "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+  "path" : "/Locations/North America/United States"
+}]}

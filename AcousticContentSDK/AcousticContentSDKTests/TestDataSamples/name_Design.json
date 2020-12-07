@@ -1,0 +1,111 @@
+{"numFound":170,"documents":[{
+  "id" : "00000000-0000-0000-0000-021000c8e20",
+  "name" : "Advertising",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.456Z",
+  "created" : "2019-12-24T12:18:51.456Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-021000c8e20\",\"rev\":\"1-df62a9a3233aaa29862d5cb743d07739\",\"name\":\"Advertising\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-020000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-020000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Usage realm\",\"Advertising\"],\"created\":\"2019-12-24T12:18:51.456Z\",\"lastModified\":\"2019-12-24T12:18:51.456Z\"}",
+  "systemTags" : [ "rev:1-df62a9a3233aaa29862d5cb743d07739" ],
+  "systemModified" : "2020-01-31T21:21:49.678Z",
+  "path" : "/Usage rights/Rights managed/Usage realm/Advertising"
+},{
+  "id" : "00000000-0000-0000-0000-024000c8e20",
+  "name" : "Corporate",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.493Z",
+  "created" : "2019-12-24T12:18:51.493Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-024000c8e20\",\"rev\":\"1-d4b2adfab985095780fbcacde5dda6fd\",\"name\":\"Corporate\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-020000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-020000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Usage realm\",\"Corporate\"],\"created\":\"2019-12-24T12:18:51.493Z\",\"lastModified\":\"2019-12-24T12:18:51.493Z\"}",
+  "systemTags" : [ "rev:1-d4b2adfab985095780fbcacde5dda6fd" ],
+  "systemModified" : "2020-01-31T21:21:49.692Z",
+  "path" : "/Usage rights/Rights managed/Usage realm/Corporate"
+},{
+  "id" : "00000000-0000-0000-0000-032000c8e20",
+  "name" : "Digital",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.516Z",
+  "created" : "2019-12-24T12:18:51.516Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-032000c8e20\",\"rev\":\"1-d58347410b7c017613aa558385409c2b\",\"name\":\"Digital\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-030000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-030000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Media\",\"Digital\"],\"created\":\"2019-12-24T12:18:51.516Z\",\"lastModified\":\"2019-12-24T12:18:51.516Z\"}",
+  "systemTags" : [ "rev:1-d58347410b7c017613aa558385409c2b" ],
+  "systemModified" : "2020-01-31T21:21:49.697Z",
+  "path" : "/Usage rights/Rights managed/Media/Digital"
+},{
+  "id" : "00000000-0000-0000-0000-025000c8e20",
+  "name" : "Editorial",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.541Z",
+  "created" : "2019-12-24T12:18:51.541Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-025000c8e20\",\"rev\":\"1-2058415a9a260008381a9cab6c642308\",\"name\":\"Editorial\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-020000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-020000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Usage realm\",\"Editorial\"],\"created\":\"2019-12-24T12:18:51.541Z\",\"lastModified\":\"2019-12-24T12:18:51.541Z\"}",
+  "systemTags" : [ "rev:1-2058415a9a260008381a9cab6c642308" ],
+  "systemModified" : "2020-01-31T21:21:49.717Z",
+  "path" : "/Usage rights/Rights managed/Usage realm/Editorial"
+},{
+  "id" : "00000000-0000-0000-0000-032100c8e20",
+  "name" : "Email",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.566Z",
+  "created" : "2019-12-24T12:18:51.566Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-032100c8e20\",\"rev\":\"1-169eb9028608db22432a799d93087ca8\",\"name\":\"Email\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-032000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-030000c8e20\",\"00000000-0000-0000-0000-032000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Media\",\"Digital\",\"Email\"],\"created\":\"2019-12-24T12:18:51.566Z\",\"lastModified\":\"2019-12-24T12:18:51.566Z\"}",
+  "systemTags" : [ "rev:1-169eb9028608db22432a799d93087ca8" ],
+  "systemModified" : "2020-01-31T21:21:49.747Z",
+  "path" : "/Usage rights/Rights managed/Media/Digital/Email"
+},{
+  "id" : "00000000-0000-0000-0000-001000c8e20",
+  "name" : "From first use",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.587Z",
+  "created" : "2019-12-24T12:18:51.587Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-001000c8e20\",\"rev\":\"1-161b7efe7665566b8f58ca516d5b875a\",\"name\":\"From first use\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-010000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-010000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Time frame\",\"From first use\"],\"created\":\"2019-12-24T12:18:51.587Z\",\"lastModified\":\"2019-12-24T12:18:51.587Z\"}",
+  "systemTags" : [ "rev:1-161b7efe7665566b8f58ca516d5b875a" ],
+  "systemModified" : "2020-01-31T21:21:49.781Z",
+  "path" : "/Usage rights/Rights managed/Time frame/From first use"
+},{
+  "id" : "00000000-0000-0000-0000-030000c8e20",
+  "name" : "Media",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.608Z",
+  "created" : "2019-12-24T12:18:51.608Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-030000c8e20\",\"rev\":\"1-01b1325cfd045e6f682373937242dbdc\",\"name\":\"Media\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-100000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Media\"],\"created\":\"2019-12-24T12:18:51.608Z\",\"lastModified\":\"2019-12-24T12:18:51.608Z\"}",
+  "systemTags" : [ "rev:1-01b1325cfd045e6f682373937242dbdc" ],
+  "systemModified" : "2020-01-31T21:21:49.773Z",
+  "path" : "/Usage rights/Rights managed/Media"
+},{
+  "id" : "00000000-0000-0000-0000-032200c8e20",
+  "name" : "Mobile app",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.639Z",
+  "created" : "2019-12-24T12:18:51.639Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-032200c8e20\",\"rev\":\"1-68603f6bf476ef3d4de7a78126a88cdb\",\"name\":\"Mobile app\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-032000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-030000c8e20\",\"00000000-0000-0000-0000-032000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Media\",\"Digital\",\"Mobile app\"],\"created\":\"2019-12-24T12:18:51.639Z\",\"lastModified\":\"2019-12-24T12:18:51.639Z\"}",
+  "systemTags" : [ "rev:1-68603f6bf476ef3d4de7a78126a88cdb" ],
+  "systemModified" : "2020-01-31T21:21:49.810Z",
+  "path" : "/Usage rights/Rights managed/Media/Digital/Mobile app"
+},{
+  "id" : "00000000-0000-0000-0000-031000c8e20",
+  "name" : "Print",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.663Z",
+  "created" : "2019-12-24T12:18:51.663Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-031000c8e20\",\"rev\":\"1-5b26674acb30ba190c645df1030884c9\",\"name\":\"Print\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-030000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-030000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Media\",\"Print\"],\"created\":\"2019-12-24T12:18:51.663Z\",\"lastModified\":\"2019-12-24T12:18:51.663Z\"}",
+  "systemTags" : [ "rev:1-5b26674acb30ba190c645df1030884c9" ],
+  "systemModified" : "2020-01-31T21:21:49.821Z",
+  "path" : "/Usage rights/Rights managed/Media/Print"
+},{
+  "id" : "00000000-0000-0000-0000-022000c8e20",
+  "name" : "Promotional",
+  "classification" : "category",
+  "lastModified" : "2019-12-24T12:18:51.685Z",
+  "created" : "2019-12-24T12:18:51.685Z",
+  "isSystem" : false,
+  "document" : "{\"id\":\"00000000-0000-0000-0000-022000c8e20\",\"rev\":\"1-961273ff4972241d74a7fa34e09d41fe\",\"name\":\"Promotional\",\"permanent\":true,\"classification\":\"category\",\"taxonomy\":\"00000000-0000-0000-0000-000000c8e20\",\"parent\":\"00000000-0000-0000-0000-020000c8e20\",\"ancestorIds\":[\"00000000-0000-0000-0000-000000c8e20\",\"00000000-0000-0000-0000-100000c8e20\",\"00000000-0000-0000-0000-020000c8e20\"],\"namePath\":[\"Usage rights\",\"Rights managed\",\"Usage realm\",\"Promotional\"],\"created\":\"2019-12-24T12:18:51.685Z\",\"lastModified\":\"2019-12-24T12:18:51.685Z\"}",
+  "systemTags" : [ "rev:1-961273ff4972241d74a7fa34e09d41fe" ],
+  "systemModified" : "2020-01-31T21:21:49.883Z",
+  "path" : "/Usage rights/Rights managed/Usage realm/Promotional"
+}]}

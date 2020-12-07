@@ -1,0 +1,63 @@
+{
+  "document": {
+    "status": "ready",
+    "tags": [
+      "travel site sample"
+    ],
+    "creatorId": "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+    "rev": "3-84426eb4582a152e95d99699249d9082",
+    "lastModified": "2020-03-05T18:52:56.264Z",
+    "kind": [
+      
+    ],
+    "elements": {
+      "countryList": {
+        "elementType": "category",
+        "categoryIds": [
+          "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+          "ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+        ],
+        "categories": [
+          "Locations\/North America\/Canada",
+          "Locations\/North America\/United States"
+        ]
+      },
+      "regionTitle": {
+        "value": "North America",
+        "elementType": "text"
+      }
+    },
+    "keywords": [
+      
+    ],
+    "links": {
+      "createDraft": {
+        "href": "\/authoring\/v1\/content\/11835ab0-f789-4b33-8122-52dff15f5399\/create-draft"
+      },
+      "retire": {
+        "href": "\/authoring\/v1\/changes\/content\/11835ab0-f789-4b33-8122-52dff15f5399\/status\/retire"
+      },
+      "self": {
+        "href": "\/authoring\/v1\/content\/11835ab0-f789-4b33-8122-52dff15f5399"
+      },
+      "type": {
+        "href": "\/authoring\/v1\/types\/9f077e72-352d-41a3-b2bb-b3857e6bc783"
+      }
+    },
+    "locale": "en",
+    "name": "North America",
+    "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "type": "Region",
+    "id": "11835ab0-f789-4b33-8122-52dff15f5399",
+    "systemModified": "2020-03-09T21:03:29.134Z",
+    "lastModifierId": "747da8d9-0059-4efd-afd2-e71d7e2938d9",
+    "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+    "classification": "content",
+    "$$DEBUG": {
+      "hash": "HCXxGu3lBJ+PCB7BRUO5pa458PY="
+    },
+    "created": "2020-03-05T18:52:56.264Z",
+    "description": ""
+  },
+  "id": "11835ab0-f789-4b33-8122-52dff15f5399"
+}

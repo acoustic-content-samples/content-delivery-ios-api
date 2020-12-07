@@ -1,0 +1,21 @@
+{
+  "service": "prod-infra-api-dispatcher",
+  "errors": [
+    {
+      "locale": "en",
+      "message": "The path [\\/api\\/fd11d2e3-9369-4c19-8444-123123\\/login\\/v1\\/basicauth] is not a valid Watson Content Hub request.",
+      "timestamp": "Tue, 18 Feb 2020 21:26:59 GMT",
+      "name": "NotFoundError",
+      "parameters": {
+        "path": "\\/api\\/fd11d2e3-9369-4c19-8444-123123\\/login\\/v1\\/basicauth",
+        "statusCode": 404,
+        "timestamp": 1582061219038
+      }
+    }
+  ],
+  "message": "The path [\\/api\\/fd11d2e3-9369-4c19-8444-123123\\/login\\/v1\\/basicauth] is not a valid Watson Content Hub request.",
+  "version": "0.0.1557",
+  "description": "Acoustic Content Hub, API Dispatcher Component",
+  "requestId": "ff5a20f7653353445ea1e2a200055656",
+  "timestamp": "Tue, 18 Feb 2020 21:26:59 GMT"
+}
