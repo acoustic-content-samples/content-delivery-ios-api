@@ -1,12 +1,18 @@
-# Acoustic iOS SDK
+# Acoustic Content Delivery iOS SDK
 
-## How to start 
+iOS SDK for the Acoustic Content Delivery API.
 
-This document is intended to help to understand how to use Acoustic Content SDK in own projects.
+## Motivation
 
-### How to add SDK
+This SDK is designed to help utilize the content hosted in Acoustic Content libraries in mobile applications (headlessly).
 
-1. Firstly add SDK to project. There are several ways how to add SDK to own projects:
+## Getting started
+
+This document is intended to help to understand how to use Acoustic Content SDK in your own projects.
+
+### Add the SDK to your project
+
+1. There are several ways how to add the SDK to your own projects:
 
     - As source code:
         - Copy `Classes` folder into your project. Rename if needed.
@@ -34,19 +40,19 @@ This document is intended to help to understand how to use Acoustic Content SDK 
         - Pay attention to `Embed & Code Sign` option if needed
         - Please pay attention that in your exact case XCFramework may require additional configuration or rebuilding.
 
-        > Important: At the moment script `make_framework` contains actual iOS version for current  iOS SDK installed. You may need to update it according to your current iOS SDK installed on your workstation.
+        > Important: At the moment the script `make_framework` contains the actual iOS version for the current iOS SDK installed. You may need to update it according to your current iOS SDK installed on your workstation.
 
-2. List of helpful links about Frameworks:
+2. This information about Frameworks may be helpful:
     1. [Embedding Frameworks In An App](https://developer.apple.com/library/archive/technotes/tn2435/_index.html)
     2. [Framework Programming Guide](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPFrameworks/Frameworks.html)
 
-3. Next step import SDK
+3. Import the SDK
 
 ```swift
 import AcousticContentSDK
 ```
 
-### How to instantiate SDK
+### How to instantiate the SDK
 
 1. Create API URL:
 
@@ -68,7 +74,7 @@ let sdk = AcousticContentSDK(withConfig: config)
 
 ### How to login
 
-1. Use login in case SDK require accessing authenticates resources:
+1. Use login in case SDK requires accessing authenticates resources:
 
 ```swift
 sdk.login(username: "username", 
@@ -84,9 +90,9 @@ sdk.login(username: "username",
 sdk.logout()
 ```
 
-### How to run basic query
+### How to run a basic query
 
-At this moment SDK is ready to retireve data.
+Now the SDK is ready to retireve data.
 
 1. Create instance of DeliverySearch class
 
@@ -132,7 +138,7 @@ nextItems?.get(completion: { (result) in
 })
 ```
 
-## How to run SDK Sample app
+## How to run the SDK Sample app
 
 1. Navigate to `AcousticContentSDKSample` folder
 2. Find and open `AcousticContentSDKSample.xcworkspace`
